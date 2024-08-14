@@ -17,7 +17,7 @@
             - force a tool to be called first etc
         - chat agent executor 
             - takes in a list of messages
-            - and then represents the state just as a list of messages
+            - and then represents the AGENT STATE just as a list of messages
             - so it returns a list of messages
             - this is because the newer models are chat based models
             - this means they intrinsically represent function calling as basically parameters as a part of a message and function responses
